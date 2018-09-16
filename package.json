@@ -1,0 +1,17 @@
+{
+  "name": "Cesium-3dtitle-calibration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cesium": "^1.49.0",
+    "css": "^2.2.4",
+    "jquery": "^3.3.1",
+    "layer": "^0.1.0",
+    "parcel": "^1.9.7",
+    "precision-inputs": "^0.2.5",
+    "requirejs": "^2.3.6",
+    "webpack": "^4.19.0",
+    "webpack-dev-server": "^3.1.8"
+  }
+}

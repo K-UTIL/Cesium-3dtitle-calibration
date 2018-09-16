@@ -1,0 +1,14 @@
+
+#map_wapper{
+    display: flex;
+}
+
+#tools{
+    flex-basis: 300px;
+    flex-shrink: 0;
+}
+
+#map_container{
+    flex-basis: 70%;
+
+}
